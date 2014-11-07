@@ -50,3 +50,5 @@ group :production do
 end
 
 gem 'devise'
+gem 'paperclip',github: 'thoughtbot/paperclip'
+gem 'aws-sdk'
